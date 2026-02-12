@@ -1,3 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-name="翡翠台1" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳台",翡翠台1
 http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台2" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳台",翡翠台2
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台3" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳台",翡翠台3
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-name="翡翠台4" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳台",翡翠台4
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
